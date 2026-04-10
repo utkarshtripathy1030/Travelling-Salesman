@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Travelling Salesman Problem Visualizer
 
 An interactive web application for visualizing and solving the Travelling Salesman Problem with cost calculation and multiple algorithms.
