@@ -1,0 +1,27 @@
+{
+  "name": "travelling-salesman-problem",
+  "version": "1.0.0",
+  "description": "Interactive Travelling Salesman Problem visualizer with cost calculation",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/index.html --host=localhost",
+    "build": "echo 'No build process needed for static files'",
+    "serve": "python -m http.server 8080",
+    "start": "npm run dev"
+  },
+  "keywords": [
+    "tsp",
+    "travelling-salesman",
+    "algorithm",
+    "visualization",
+    "pathfinding"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
