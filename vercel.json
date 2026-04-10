@@ -1,0 +1,12 @@
+{
+  "buildCommand": "echo 'Skipping build'",
+  "outputDirectory": ".",
+  "public": false,
+  "env": [],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
